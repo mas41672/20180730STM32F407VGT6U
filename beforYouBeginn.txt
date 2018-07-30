@@ -1,0 +1,12 @@
+Here the installation procedures are stepwise summerized
+
+1) Install attolic Studio
+   Atollic_TrueSTUDIO_for_STM32_linux_x86_64_v9.0.1_20180420-1214
+   (use other binaries for other OS)
+
+2) Install cubeMX
+   en.stsw-stm32095.zip  <- download this file
+   https://www.youtube.com/watch?v=JnmjmP2Xchg&submissionGuid=9f0d1580-d535-49b3-819f-50c176d01640
+   watch the above youtube link
+   
+ 
